@@ -126,7 +126,3 @@ Bug reports and pull requests are welcome. Please open an issue first for larger
 ## License
 
 [GPL-2.0-or-later](LICENSE), the same license as WordPress.
-
-## Author
-
-[Istiaq Nirab](https://nirab.me)
